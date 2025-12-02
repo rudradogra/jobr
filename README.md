@@ -1,4 +1,4 @@
-# swipe_app — concise README
+README
 
 Single-repo mobile + backend app to discover jobs, swipe, upload/parse resumes and save user actions.
 
